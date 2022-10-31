@@ -1,10 +1,9 @@
 # Требования к проекту 
----
 
 # Содержание
-1 [Введение](#intro)
-1.1 [Назначение](#appointment) 
-1.2 [Бизнес-требования](#requirements)  
+1 [Введение](#intro)  
+1.1 [Назначение](#appointment)  
+1.2 [Бизнес-требования](#business_requirements)  
 1.2.1 [Исходные данные](#initial_data)  
 1.2.2 [Возможности бизнеса](#business_opportunities)  
 1.2.3 [Границы проекта](#project_boundary)  
@@ -22,8 +21,15 @@
 3 [Системные требования](#system_requirements)  
 3.1 [Функциональные требования](#functional_requirements)  
 3.1.1 [Основные функции](#main_functions)  
-3.1.1.1 [Вход пользователя в приложение](#user_log)  
-
+3.1.1.1 [Вход пользователя в приложение](#user_logon_to_the_application)  
+3.1.1.2 [Определение месторасположения и выбор дальнейшего действия](#locate_user)  
+3.1.1.3 [Просмотр и редактирование профиля активного пользователя](#view_and_update_user)  
+3.1.1.4 [Выбор данных для создания маршрута](#choose_information_about_trip)  
+3.1.1.5 [Просмотр составленного маршрута](#preview_trip)  
+3.1.1.6 [Навигация при прохождении маршрута](#navigate_user_during_trip)  
+3.1.1.7 [Завершение маршрута](#finish_trip)  
+3.1.1.8 [Статистика других игроков](#statistics_of_other_users)  
+3.1.1.9 [Выход зарегистрированного пользователя из учётной записи](#active_user_change)
 
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
@@ -32,10 +38,3 @@
 3.2.1.2 [Требования к безопасности](#security_requirements)  
 3.2.2 [Внешние интерфейсы](#external_interfaces)  
 3.2.3 [Ограничения](#restrictions)  
-<a name="intro"/>
-
-# 1 Введение
-
-<a name="appointment"/>
-
-## 1.1 Назначение

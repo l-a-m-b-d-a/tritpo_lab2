@@ -1,1 +1,1 @@
-# tritpo_lab2
+# NIKITA PIVO

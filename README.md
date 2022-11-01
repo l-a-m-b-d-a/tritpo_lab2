@@ -29,7 +29,7 @@
 3.1.1.6 [Удаление книги Избранное/Текущее](#delete_book)  
 3.1.1.7 [Конец чтения](#end_read)<br>
 3.1.1.8 [Выход зарегистрированного пользователя из учётной записи](#exit_reg_user)  
-3.1.2 [Ограничения и исключения](#restrictions_and_exclusions) 
+3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)<br>
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
 3.2.1.1 [Требования к удобству использования](#requirements_for_ease_of_use)  

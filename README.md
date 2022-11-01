@@ -16,7 +16,7 @@
 2.3.1 [Классы пользователей](#user_classes)  
 2.3.2 [Аудитория приложения](#application_audience)  
 2.3.2.1 [Целевая аудитория](#target_audience)  
-2.3.2.2 [Побочная аудитория](#collateral_audience)
+2.3.2.2 [Побочная аудитория](#collateral_audience)<br>
 2.4 [Предположения и зависимости](#assumptions_and_dependencies)  
 3 [Системные требования](#system_requirements)  
 3.1 [Функциональные требования](#functional_requirements)  
@@ -27,7 +27,7 @@
 3.1.1.4 [Отложить книгу в избранное](#put_book)  
 3.1.1.5 [Продолжить чтение](#read_continue)  
 3.1.1.6 [Удаление книги Избранное/Текущее](#delete_book)  
-3.1.1.7 [Конец чтения](#end_read)
+3.1.1.7 [Конец чтения](#end_read)<br>
 3.1.1.8 [Выход зарегистрированного пользователя из учётной записи](#exit_reg_user)  
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions) 
 3.2 [Нефункциональные требования](#non-functional_requirements)  
